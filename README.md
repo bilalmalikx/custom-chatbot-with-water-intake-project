@@ -1,2 +1,1 @@
-# custom-chatbot-with-water-intake-project
-“Smart hydration tracker with AI assistant using Streamlit + OpenAI.”  “Track water intake and get custom hydration advice via chatbot.”  “Streamlit app for daily water logging with hydration coach.”
+A Streamlit app to track daily water intake, view hydration history, and get personalized AI chatbot tips.
