@@ -1,0 +1,12 @@
+streamlit==1.31.1
+openai==1.14.1
+typer==0.9.0
+apscheduler==3.10.4
+loguru==0.7.0
+langchain==0.1.12
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+sqlalchemy==2.0.27
+python-dotenv==1.0.1
+sqlite-utils==3.35
+llama-index
